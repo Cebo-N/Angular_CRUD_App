@@ -1,0 +1,3 @@
+[submodule "client/toDo"]
+	path = client/toDo
+	url = https://github.com/Cebo-N/Angular_App.git
